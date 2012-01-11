@@ -1,1 +1,7 @@
-Tubefeed is a plugin I made that displays youtube videos based on parameters that you can set.
+Tubefeed is a plugin displays youtube videos based on parameters that you can set.
+
+Example:
+
+$("#main").tubefeed({
+      userName : "vevo"
+});
