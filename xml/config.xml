@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<application name="config" xmlns:param="http://www.siteurlhere.com/">
+	<component id="globals"> 
+		<!--
+			Specify the root paths for your files in your local
+			set-up, your development environment and for production.
+			Items are indicated with a namespace of param:path
+		-->
+		<param:path id="localPath"><![CDATA[../]]></param:path>
+		<param:path id="prodPath"><![CDATA[]]></param:path>
+		<!--
+			Directories that get the root paths appended to them.
+			These directories are indicated with a namespace of param:addpathto
+		-->
+		<param:addpathto id="cssPath"><![CDATA[css/]]></param:addpathto> 
+		<param:addpathto id="xmlPath"><![CDATA[xml/]]></param:addpathto> 
+		<param:addpathto id="imagePath"><![CDATA[images/]]></param:addpathto>
+		<param id="videoPath"><![CDATA[http://dev.realartusa.com/SYNMA/13067/www/video/]]></param>
+	</component>
+	<!--
+		Global Properties for Video Player
+	-->
+	<component id="videoplayer">
+		<!--<param:String id="videoFile"><![CDATA[demo.flv]]></param:String>-->
+		<!--<param:String id="stillFile"><![CDATA[]]></param:String>-->
+		<param:int id="horizontal"><![CDATA[480]]></param:int>
+		<param:int id="vertical"><![CDATA[270]]></param:int>
+		<param:int id="controllerX"><![CDATA[0]]></param:int>
+		<param:int id="controllerY"><![CDATA[210]]></param:int>
+		<param:Number id="backgroundColor"><![CDATA[0x121212]]></param:Number>
+		<param:Number id="backgroundAlpha"><![CDATA[1]]></param:Number>
+		<param:Number id="controllerColor"><![CDATA[0x111111]]></param:Number>
+		<param:Number id="controllerAlpha"><![CDATA[.85]]></param:Number>
+		<param:Number id="volumeButtonColor"><![CDATA[0x066cae]]></param:Number>
+		<param:Number id="loadedBarColor"><![CDATA[0x222222]]></param:Number>
+		<param:Number id="playedBarColor"><![CDATA[0x066cae]]></param:Number>
+		<param:Number id="scrubberColor"><![CDATA[0xffffff]]></param:Number>
+		<param:Number id="resizeButtonColor"><![CDATA[0x666666]]></param:Number>
+		<param:Number id="timeDisplayColor"><![CDATA[0xffffff]]></param:Number>
+		<param:Number id="pauseButtonColor"><![CDATA[0x666666]]></param:Number>
+		<param:Number id="defaultVolume"><![CDATA[.5]]></param:Number>
+		<param:Boolean id="autohideController"><![CDATA[true]]></param:Boolean>
+		<param:Boolean id="displayController"><![CDATA[true]]></param:Boolean>
+		<param:Boolean id="autoplay"><![CDATA[true]]></param:Boolean>
+		<param:Boolean id="freezeLastFrame"><![CDATA[false]]></param:Boolean>
+		<param:Boolean id="smoothing"><![CDATA[true]]></param:Boolean>
+		<param:Array id="controls"><![CDATA[pauseButton, progressDisplay, timeElapsedDisplay, resizeButton, volumeButton]]></param:Array>
+	</component>
+	
+	<component id="stage"> 
+		<param id="scaleMode"><![CDATA[noScale]]></param>
+		<param id="align"><![CDATA[TL]]></param>
+		<param id="showDefaultContextMenu"><![CDATA[false]]></param>
+	</component> 
+	 
+    <component id="xml" />
+	
+	<component id="css" />
+	
+	<component id="images" />
+</application>

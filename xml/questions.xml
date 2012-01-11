@@ -1,0 +1,42 @@
+<questions>
+	<question id="1">
+		<title><![CDATA[Performance & Efficiency - The All-New Chevy Cruze has an available _____ engine that is designed for efficiency without compromising performance by delivering 138 Horsepower and 36 Miles Per Gallon on the Highway.]]></title>
+		<video src="AT001548H_PERFORMANCE_1.mp4" thumb="AT001548H_PERFORMANCE_1.jpg" title="Performance" />
+		<options>
+			<option answer="false"><![CDATA[1.2 L]]></option>
+			<option answer="true"><![CDATA[1.4L Turbo Charged]]></option>
+			<option answer="false"><![CDATA[1.6L]]></option>
+			<option answer="false"><![CDATA[1.2L Turbo Charged]]></option>
+		</options>
+	</question>
+	<question id="2">
+		<title><![CDATA[Interior - The All-New Chevy Cruze has more passenger room and cargo space than Honda Civic and Toyota Corolla and how many distinct acoustical treatments for a quite interior?]]></title>
+		<video src="AT001549H_INTERIOR_1.mp4" thumb="AT001549H_INTERIOR_1.jpg" title="Interior" />
+		<options>
+			<option answer="false"><![CDATA[10]]></option>
+			<option answer="false"><![CDATA[15]]></option>
+			<option answer="false"><![CDATA[24]]></option>
+			<option answer="true"><![CDATA[30]]></option>
+		</options>
+	</question>
+	<question id="3">
+		<title><![CDATA[Technology - The All-New Chevy Cruze comes standard with OnStar Turn-by-Turn Navigation for 6 months and has the following available features:]]></title>
+		<video src="AT001550H_Technology_1.mp4" thumb="AT001550H_Technology_1.jpg" title="Technology" />
+		<options>
+			<option answer="false"><![CDATA[Navigation Screen]]></option>
+			<option answer="false"><![CDATA[Bluetooth Wireless Technology]]></option>
+			<option answer="false"><![CDATA[Pioneer Premium Audio System]]></option>
+			<option answer="true"><![CDATA[All the Above]]></option>
+		</options>
+	</question>
+	<question id="4">
+		<title><![CDATA[Safety & Durability - The All-New Chevy Cruze has a high-strength steel safety cage, Stabilitrak plus traction control and how many standard air bags?]]></title>
+		<video src="AT001551H_SAFETY_AND_DURABILITY.mp4" thumb="AT001551H_SAFETY_AND_DURABILITY.jpg" title="Safety and Durability" />
+		<options>
+			<option answer="false"><![CDATA[6]]></option>
+			<option answer="false"><![CDATA[8]]></option>
+			<option answer="true"><![CDATA[10]]></option>
+			<option answer="false"><![CDATA[7]]></option>
+		</options>
+	</question>
+</questions>

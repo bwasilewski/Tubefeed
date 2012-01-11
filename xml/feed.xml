@@ -1,0 +1,2089 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"
+xmlns:media="http://search.yahoo.com/mrss/"
+xmlns:openSearch="http://a9.com/-/spec/opensearchrss/1.0/"
+xmlns:gd="http://schemas.google.com/g/2005"
+xmlns:yt="http://gdata.youtube.com/schemas/2007">
+  <id>http://gdata.youtube.com/feeds/api/users/chevrolet/uploads</id>
+  <updated>2011-01-17T16:49:17.996Z</updated>
+  <category scheme="http://schemas.google.com/g/2005#kind" term="http://gdata.youtube.com/schemas/2007#video" />
+  <title type="text">Uploads by chevrolet</title>
+  <logo>http://www.youtube.com/img/pic_youtubelogo_123x63.gif</logo>
+  <link rel="related" type="application/atom+xml"
+  href="http://gdata.youtube.com/feeds/api/users/chevrolet" />
+  <link rel="alternate" type="text/html"
+  href="http://www.youtube.com/profile_videos?user=chevrolet" />
+  <link rel="http://schemas.google.com/g/2005#feed"
+  type="application/atom+xml"
+  href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads" />
+  <link rel="http://schemas.google.com/g/2005#batch"
+  type="application/atom+xml"
+  href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/batch" />
+  <link rel="self" type="application/atom+xml"
+  href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads?start-index=1&amp;max-results=24" />
+  <link rel="next" type="application/atom+xml"
+  href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads?start-index=25&amp;max-results=24" />
+  <author>
+    <name>chevrolet</name>
+    <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+  </author>
+  <generator version="2.0" uri="http://gdata.youtube.com/">YouTube
+  data API</generator>
+  <openSearch:totalResults>479</openSearch:totalResults>
+  <openSearch:startIndex>1</openSearch:startIndex>
+  <openSearch:itemsPerPage>24</openSearch:itemsPerPage>
+  
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/OUVyQCG_zM8</id>
+    <published>2011-01-03T19:41:33.000Z</published>
+    <updated>2011-01-08T04:32:42.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Dare to Compare" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Ford" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Focus" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="May the Best Car Win" />
+    <title type="text">Dare to Compare | Chevrolet Cruze vs
+    Focus</title>
+    <content type="text">May the best car win when we dare to
+    compare the Chevy Cruze to the Ford Focus.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=OUVyQCG_zM8&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/OUVyQCG_zM8/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/OUVyQCG_zM8/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=OUVyQCG_zM8" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/OUVyQCG_zM8" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/OUVyQCG_zM8/comments"
+      countHint="5" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/OUVyQCG_zM8?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="133"
+      yt:format="5" />
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CigLENy73wIaHwnPzL8hQHJFORMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="133" yt:format="1" />
+      <media:content url="rtsp://v5.cache8.c.youtube.com/CigLENy73wIaHwnPzL8hQHJFORMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="133" yt:format="6" />
+      <media:description type="plain">May the best car win when we
+      dare to compare the Chevy Cruze to the Ford
+      Focus.</media:description>
+      <media:keywords>Dare to Compare, Chevrolet, Chevy, Cruze,
+      Ford, Focus, May the Best Car Win</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=OUVyQCG_zM8&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/OUVyQCG_zM8/2.jpg"
+      height="90" width="120" time="00:01:06.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/OUVyQCG_zM8/1.jpg"
+      height="90" width="120" time="00:00:33.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/OUVyQCG_zM8/3.jpg"
+      height="90" width="120" time="00:01:39.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/OUVyQCG_zM8/0.jpg"
+      height="240" width="320" time="00:01:06.500" />
+      <media:title type="plain">Dare to Compare | Chevrolet Cruze
+      vs Focus</media:title>
+      <yt:duration seconds="133" />
+    </media:group>
+    <gd:rating average="3.909091" max="5" min="1" numRaters="11"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="3" viewCount="1170" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/6g5uADcJUco</id>
+    <published>2011-01-03T19:41:11.000Z</published>
+    <updated>2011-01-17T03:43:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Dare to Compare" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Hyundai" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Elantra" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="May the Best Car Win" />
+    <title type="text">Dare to Compare | Chevrolet Cruze vs
+    Elantra</title>
+    <content type="text">May the best car win when we dare to
+    compare the Chevy Cruze to the Hyundai Elantra.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=6g5uADcJUco&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/6g5uADcJUco/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/6g5uADcJUco/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=6g5uADcJUco" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/6g5uADcJUco" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/6g5uADcJUco/comments"
+      countHint="8" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/6g5uADcJUco?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="152"
+      yt:format="5" />
+      <media:content url="rtsp://v5.cache7.c.youtube.com/CigLENy73wIaHwnKUQk3AG4O6hMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="152" yt:format="1" />
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CigLENy73wIaHwnKUQk3AG4O6hMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="152" yt:format="6" />
+      <media:description type="plain">May the best car win when we
+      dare to compare the Chevy Cruze to the Hyundai
+      Elantra.</media:description>
+      <media:keywords>Dare to Compare, Chevrolet, Chevy, Cruze,
+      Hyundai, Elantra, May the Best Car Win</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=6g5uADcJUco&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/6g5uADcJUco/2.jpg"
+      height="90" width="120" time="00:01:16" />
+      <media:thumbnail url="http://i.ytimg.com/vi/6g5uADcJUco/1.jpg"
+      height="90" width="120" time="00:00:38" />
+      <media:thumbnail url="http://i.ytimg.com/vi/6g5uADcJUco/3.jpg"
+      height="90" width="120" time="00:01:54" />
+      <media:thumbnail url="http://i.ytimg.com/vi/6g5uADcJUco/0.jpg"
+      height="240" width="320" time="00:01:16" />
+      <media:title type="plain">Dare to Compare | Chevrolet Cruze
+      vs Elantra</media:title>
+      <yt:duration seconds="152" />
+    </media:group>
+    <gd:rating average="3.1818182" max="5" min="1" numRaters="11"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="2" viewCount="803" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/WEwVz9C49FQ</id>
+    <published>2011-01-03T19:40:53.000Z</published>
+    <updated>2011-01-13T01:42:53.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Dare to Compare" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Toyota" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Corolla" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="May the Best Car Win" />
+    <title type="text">Dare to Compare | Chevrolet Cruze vs
+    Corolla</title>
+    <content type="text">May the best car win when we dare to
+    compare the Chevy Cruze to the Toyota Corolla.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=WEwVz9C49FQ&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/WEwVz9C49FQ/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/WEwVz9C49FQ/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=WEwVz9C49FQ" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/WEwVz9C49FQ" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WEwVz9C49FQ/comments"
+      countHint="5" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/WEwVz9C49FQ?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="141"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CigLENy73wIaHwlU9LjQzxVMWBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="141" yt:format="1" />
+      <media:content url="rtsp://v8.cache1.c.youtube.com/CigLENy73wIaHwlU9LjQzxVMWBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="141" yt:format="6" />
+      <media:description type="plain">May the best car win when we
+      dare to compare the Chevy Cruze to the Toyota
+      Corolla.</media:description>
+      <media:keywords>Dare to Compare, Chevrolet, Chevy, Cruze,
+      Toyota, Corolla, May the Best Car Win</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WEwVz9C49FQ&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WEwVz9C49FQ/2.jpg"
+      height="90" width="120" time="00:01:10.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WEwVz9C49FQ/1.jpg"
+      height="90" width="120" time="00:00:35.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WEwVz9C49FQ/3.jpg"
+      height="90" width="120" time="00:01:45.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WEwVz9C49FQ/0.jpg"
+      height="240" width="320" time="00:01:10.500" />
+      <media:title type="plain">Dare to Compare | Chevrolet Cruze
+      vs Corolla</media:title>
+      <yt:duration seconds="141" />
+    </media:group>
+    <gd:rating average="4.6363635" max="5" min="1" numRaters="11"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="2" viewCount="963" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/06TRt5m1bJ4</id>
+    <published>2011-01-03T19:40:34.000Z</published>
+    <updated>2011-01-14T09:06:21.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Dare to Compare" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Honda" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Civic" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="May the Best Car Win" />
+    <title type="text">Dare to Compare | Chevrolet Cruze vs
+    Civic</title>
+    <content type="text">May the best car win when we dare to
+    compare the Chevy Cruze to the Honda Civic.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=06TRt5m1bJ4&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/06TRt5m1bJ4/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/06TRt5m1bJ4/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=06TRt5m1bJ4" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/06TRt5m1bJ4" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/06TRt5m1bJ4/comments"
+      countHint="3" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/06TRt5m1bJ4?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="147"
+      yt:format="5" />
+      <media:content url="rtsp://v1.cache4.c.youtube.com/CigLENy73wIaHwmebLWZt9Gk0xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="147" yt:format="1" />
+      <media:content url="rtsp://v5.cache4.c.youtube.com/CigLENy73wIaHwmebLWZt9Gk0xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="147" yt:format="6" />
+      <media:description type="plain">May the best car win when we
+      dare to compare the Chevy Cruze to the Honda
+      Civic.</media:description>
+      <media:keywords>Dare to Compare, Chevrolet, Chevy, Cruze,
+      Honda, Civic, May the Best Car Win</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=06TRt5m1bJ4&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/06TRt5m1bJ4/2.jpg"
+      height="90" width="120" time="00:01:13.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/06TRt5m1bJ4/1.jpg"
+      height="90" width="120" time="00:00:36.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/06TRt5m1bJ4/3.jpg"
+      height="90" width="120" time="00:01:50.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/06TRt5m1bJ4/0.jpg"
+      height="240" width="320" time="00:01:13.500" />
+      <media:title type="plain">Dare to Compare | Chevrolet Cruze
+      vs Civic</media:title>
+      <yt:duration seconds="147" />
+    </media:group>
+    <gd:rating average="4.0" max="5" min="1" numRaters="8"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="3" viewCount="762" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/zSGkPwkolkw</id>
+    <published>2010-12-29T21:47:36.000Z</published>
+    <updated>2011-01-15T16:11:10.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Dept 180" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Department 180" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2010 Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2010 Chevy Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2010 Chevrolet Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2011 Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2011 Chevy Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2011 Chevrolet Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Engineer" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Technician" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="GM" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="General Motors" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Extreme Tests" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Testing" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Quality" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Quality" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Quality" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Car Quality" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Car Testing" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cars" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="2011" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Science" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Slow Motion" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Slo Mo" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Crash" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Crash Test" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Airbags" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Safety" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Safety Features" />
+    <title type="text">Dept. 180: Chevrolet Cruze Top
+    Safety</title>
+    <content type="text">Chevrolet development engineers use
+    extreme measures to verify the safety performance of the
+    all-new 2011 Chevrolet Cruze, rated &#8220;5-Star&#8221; everywhere it"s
+    rated in the world and selected as an IIHS Top Safety
+    Pick.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=zSGkPwkolkw&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/zSGkPwkolkw/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/zSGkPwkolkw/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=zSGkPwkolkw" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/zSGkPwkolkw" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/zSGkPwkolkw/comments"
+      countHint="26" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/zSGkPwkolkw?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="122"
+      yt:format="5" />
+      <media:content url="rtsp://v4.cache4.c.youtube.com/CigLENy73wIaHwlMligJP6QhzRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="122" yt:format="1" />
+      <media:content url="rtsp://v2.cache4.c.youtube.com/CigLENy73wIaHwlMligJP6QhzRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="122" yt:format="6" />
+      <media:description type="plain">Chevrolet development
+      engineers use extreme measures to verify the safety
+      performance of the all-new 2011 Chevrolet Cruze, rated
+      &#8220;5-Star&#8221; everywhere it"s rated in the world and selected as
+      an IIHS Top Safety Pick.</media:description>
+      <media:keywords>Dept 180, Department 180, Chevrolet, Chevy,
+      Chevy Cruze, Chevrolet Cruze, 2010 Cruze, 2010 Chevy Cruze,
+      2010 Chevrolet Cruze, 2011 Cruze, 2011 Chevy Cruze, 2011
+      Chevrolet Cruze, Engineer, Technician, GM, General Motors,
+      Extreme Tests, Testing, Quality, Chevrolet Quality, Chevy
+      Quality, Car Quality, Car Testing, Cars, Cruze, 2011,
+      Science, Slow Motion, Slo Mo, Crash, Crash Test, Airbags,
+      Safety, Safety Features</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=zSGkPwkolkw&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zSGkPwkolkw/2.jpg"
+      height="90" width="120" time="00:01:01" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zSGkPwkolkw/1.jpg"
+      height="90" width="120" time="00:00:30.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zSGkPwkolkw/3.jpg"
+      height="90" width="120" time="00:01:31.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zSGkPwkolkw/0.jpg"
+      height="240" width="320" time="00:01:01" />
+      <media:title type="plain">Dept. 180: Chevrolet Cruze Top
+      Safety</media:title>
+      <yt:duration seconds="122" />
+    </media:group>
+    <gd:rating average="4.866667" max="5" min="1" numRaters="30"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="13" viewCount="3322" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/7Bc7yOhx7hI</id>
+    <published>2010-12-29T14:47:57.000Z</published>
+    <updated>2011-01-03T22:10:33.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="VoltAge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Voltec" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="extended range vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="GM" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="General Motors" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Shad Balch" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="California PEV Collaborative" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Plug-In Electric Vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="California" />
+    <title type="text">The Chevrolet Volt and the California PEV
+    Collaborative</title>
+    <content type="text">See how stakeholders from the California
+    Plug-In Electric Vehicle (PEV) Collaborative have played an
+    integrated role in spurring consumer interest in the Chevrolet
+    Volt and other EVs.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=7Bc7yOhx7hI&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/7Bc7yOhx7hI/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/7Bc7yOhx7hI/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=7Bc7yOhx7hI" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/7Bc7yOhx7hI" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/7Bc7yOhx7hI/comments"
+      countHint="5" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/7Bc7yOhx7hI?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="140"
+      yt:format="5" />
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CigLENy73wIaHwkS7nHoyDsX7BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="140" yt:format="1" />
+      <media:content url="rtsp://v4.cache3.c.youtube.com/CigLENy73wIaHwkS7nHoyDsX7BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="140" yt:format="6" />
+      <media:description type="plain">See how stakeholders from the
+      California Plug-In Electric Vehicle (PEV) Collaborative have
+      played an integrated role in spurring consumer interest in
+      the Chevrolet Volt and other EVs.</media:description>
+      <media:keywords>Chevy Volt, Chevrolet Volt, VoltAge, Voltec,
+      electric car, electric vehicle, extended range vehicle, GM,
+      General Motors, Shad Balch, California PEV Collaborative,
+      Plug-In Electric Vehicle, California</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=7Bc7yOhx7hI&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/7Bc7yOhx7hI/2.jpg"
+      height="90" width="120" time="00:01:10" />
+      <media:thumbnail url="http://i.ytimg.com/vi/7Bc7yOhx7hI/1.jpg"
+      height="90" width="120" time="00:00:35" />
+      <media:thumbnail url="http://i.ytimg.com/vi/7Bc7yOhx7hI/3.jpg"
+      height="90" width="120" time="00:01:45" />
+      <media:thumbnail url="http://i.ytimg.com/vi/7Bc7yOhx7hI/0.jpg"
+      height="240" width="320" time="00:01:10" />
+      <media:title type="plain">The Chevrolet Volt and the
+      California PEV Collaborative</media:title>
+      <yt:duration seconds="140" />
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="6"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="0" viewCount="905" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/tFc_w-J693A</id>
+    <published>2010-12-27T14:17:31.000Z</published>
+    <updated>2011-01-04T21:54:10.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="GM Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="General Motors" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="EV" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="extended range vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Patrick Wang" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Northern California" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="VIN" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Mychevroletvolt.com" />
+    <title type="text">Patrick Wang and His Chevrolet Volt</title>
+    <content type="text">Patrick Wang, a Chevrolet Volt enthusiast,
+    was the first buyer of GM"s extended range electric vehicle in
+    Northern California. This is his story of his ongoing
+    experience with the Volt.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=tFc_w-J693A&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/tFc_w-J693A/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/tFc_w-J693A/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=tFc_w-J693A" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/tFc_w-J693A" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/tFc_w-J693A/comments"
+      countHint="19" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/tFc_w-J693A?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="67"
+      yt:format="5" />
+      <media:content url="rtsp://v4.cache6.c.youtube.com/CigLENy73wIaHwlw93riwz9XtBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="67" yt:format="1" />
+      <media:content url="rtsp://v7.cache8.c.youtube.com/CigLENy73wIaHwlw93riwz9XtBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="67" yt:format="6" />
+      <media:description type="plain">Patrick Wang, a Chevrolet
+      Volt enthusiast, was the first buyer of GM"s extended range
+      electric vehicle in Northern California. This is his story of
+      his ongoing experience with the Volt.</media:description>
+      <media:keywords>Chevrolet Volt, Chevy Volt, GM Volt, General
+      Motors, electric vehicle, EV, extended range vehicle, Patrick
+      Wang, Northern California, VIN,
+      Mychevroletvolt.com</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=tFc_w-J693A&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/tFc_w-J693A/2.jpg"
+      height="90" width="120" time="00:00:33.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/tFc_w-J693A/1.jpg"
+      height="90" width="120" time="00:00:16.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/tFc_w-J693A/3.jpg"
+      height="90" width="120" time="00:00:50.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/tFc_w-J693A/0.jpg"
+      height="240" width="320" time="00:00:33.500" />
+      <media:title type="plain">Patrick Wang and His Chevrolet
+      Volt</media:title>
+      <yt:duration seconds="67" />
+    </media:group>
+    <gd:rating average="4.7894735" max="5" min="1" numRaters="19"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="1" viewCount="3530" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/0xbpcQAn2uE</id>
+    <published>2010-12-22T21:52:24.000Z</published>
+    <updated>2011-01-15T21:19:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="cruze" />
+    <title type="text">2011 Chevrolet Cruze - Guys Night</title>
+    <content type="text">The all-new 2011 Chevrolet Cruze. With a
+    9-speaker system for whatever you"re into these days. Get used
+    to more. www.chevrolet.com/cruze</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=0xbpcQAn2uE&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/0xbpcQAn2uE/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/0xbpcQAn2uE/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=0xbpcQAn2uE" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/0xbpcQAn2uE" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/0xbpcQAn2uE/comments"
+      countHint="15" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/0xbpcQAn2uE?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="32"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CigLENy73wIaHwnh2icAcekW0xMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="32" yt:format="1" />
+      <media:content url="rtsp://v8.cache2.c.youtube.com/CigLENy73wIaHwnh2icAcekW0xMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="32" yt:format="6" />
+      <media:description type="plain">The all-new 2011 Chevrolet
+      Cruze. With a 9-speaker system for whatever you"re into these
+      days. Get used to more.
+      www.chevrolet.com/cruze</media:description>
+      <media:keywords>Chevrolet, cruze</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=0xbpcQAn2uE&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/0xbpcQAn2uE/2.jpg"
+      height="90" width="120" time="00:00:16" />
+      <media:thumbnail url="http://i.ytimg.com/vi/0xbpcQAn2uE/1.jpg"
+      height="90" width="120" time="00:00:08" />
+      <media:thumbnail url="http://i.ytimg.com/vi/0xbpcQAn2uE/3.jpg"
+      height="90" width="120" time="00:00:24" />
+      <media:thumbnail url="http://i.ytimg.com/vi/0xbpcQAn2uE/0.jpg"
+      height="240" width="320" time="00:00:16" />
+      <media:title type="plain">2011 Chevrolet Cruze - Guys
+      Night</media:title>
+      <yt:duration seconds="32" />
+    </media:group>
+    <gd:rating average="4.822222" max="5" min="1" numRaters="45"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="34" viewCount="10875" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/eHruySdTarE</id>
+    <published>2010-12-22T21:51:23.000Z</published>
+    <updated>2011-01-13T08:27:45.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="commercial" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="remote control" />
+    <title type="text">2011 Chevrolet Cruze - Remote
+    Control</title>
+    <content type="text">The remote-controlled car is finally here.
+    The all-new 2011 Chevrolet Cruze. Get used to more.
+    www.chevrolet.com/cruze</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=eHruySdTarE&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/eHruySdTarE/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/eHruySdTarE/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=eHruySdTarE" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/eHruySdTarE" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/eHruySdTarE/comments"
+      countHint="4" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/eHruySdTarE?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="32"
+      yt:format="5" />
+      <media:content url="rtsp://v3.cache4.c.youtube.com/CigLENy73wIaHwmxalMnye56eBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="32" yt:format="1" />
+      <media:content url="rtsp://v2.cache2.c.youtube.com/CigLENy73wIaHwmxalMnye56eBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="32" yt:format="6" />
+      <media:description type="plain">The remote-controlled car is
+      finally here. The all-new 2011 Chevrolet Cruze. Get used to
+      more. www.chevrolet.com/cruze</media:description>
+      <media:keywords>Cruze, Chevrolet, commercial, remote
+      control</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=eHruySdTarE&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/eHruySdTarE/2.jpg"
+      height="90" width="120" time="00:00:16" />
+      <media:thumbnail url="http://i.ytimg.com/vi/eHruySdTarE/1.jpg"
+      height="90" width="120" time="00:00:08" />
+      <media:thumbnail url="http://i.ytimg.com/vi/eHruySdTarE/3.jpg"
+      height="90" width="120" time="00:00:24" />
+      <media:thumbnail url="http://i.ytimg.com/vi/eHruySdTarE/0.jpg"
+      height="240" width="320" time="00:00:16" />
+      <media:title type="plain">2011 Chevrolet Cruze - Remote
+      Control</media:title>
+      <yt:duration seconds="32" />
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="18"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="9" viewCount="4311" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/Yp_-kWz_Svs</id>
+    <published>2010-12-22T20:55:24.000Z</published>
+    <updated>2011-01-04T04:31:30.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Kelly" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Rowland" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Interview" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Sessions" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="VEVO" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="R&amp;B/Soul" />
+    <title type="text">Kelly Rowland - Chevy Cruze Interview
+    Sessions</title>
+    <content type="text">Exclusive interview with Kelly Rowland
+    brought to you by the new 2011 Chevy Cruze.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=Yp_-kWz_Svs&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/Yp_-kWz_Svs/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/Yp_-kWz_Svs/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=Yp_-kWz_Svs" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/Yp_-kWz_Svs" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Yp_-kWz_Svs/comments"
+      countHint="1" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/Yp_-kWz_Svs?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="138"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache5.c.youtube.com/CigLENy73wIaHwn7Sv9skf6fYhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="138" yt:format="1" />
+      <media:content url="rtsp://v3.cache7.c.youtube.com/CigLENy73wIaHwn7Sv9skf6fYhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="138" yt:format="6" />
+      <media:description type="plain">Exclusive interview with
+      Kelly Rowland brought to you by the new 2011 Chevy
+      Cruze.</media:description>
+      <media:keywords>Kelly, Rowland, Chevy, Cruze, Interview,
+      Sessions, VEVO, R&amp;B/Soul</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Yp_-kWz_Svs&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Yp_-kWz_Svs/2.jpg"
+      height="90" width="120" time="00:01:09" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Yp_-kWz_Svs/1.jpg"
+      height="90" width="120" time="00:00:34.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Yp_-kWz_Svs/3.jpg"
+      height="90" width="120" time="00:01:43.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Yp_-kWz_Svs/0.jpg"
+      height="240" width="320" time="00:01:09" />
+      <media:title type="plain">Kelly Rowland - Chevy Cruze
+      Interview Sessions</media:title>
+      <yt:duration seconds="138" />
+    </media:group>
+    <gd:rating average="4.733333" max="5" min="1" numRaters="15"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="3" viewCount="1436" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/lbJLnWNOz7c</id>
+    <published>2010-12-22T20:55:09.000Z</published>
+    <updated>2011-01-04T21:33:37.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Ne-Yo" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Cruze" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Interview" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Sessions" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="VEVO" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="R&amp;B/Soul" />
+    <title type="text">Ne-Yo - Chevy Cruze Interview
+    Sessions</title>
+    <content type="text">Exclusive interview with Ne-Yo brought to
+    you by the new 2011 Chevy Cruze.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=lbJLnWNOz7c&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/lbJLnWNOz7c/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/lbJLnWNOz7c/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=lbJLnWNOz7c" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/lbJLnWNOz7c" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/lbJLnWNOz7c/comments"
+      countHint="6" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/lbJLnWNOz7c?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="117"
+      yt:format="5" />
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CigLENy73wIaHwm3z05jnUuylRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="117" yt:format="1" />
+      <media:content url="rtsp://v8.cache4.c.youtube.com/CigLENy73wIaHwm3z05jnUuylRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="117" yt:format="6" />
+      <media:description type="plain">Exclusive interview with
+      Ne-Yo brought to you by the new 2011 Chevy
+      Cruze.</media:description>
+      <media:keywords>Ne-Yo, Chevy, Cruze, Interview, Sessions,
+      VEVO, R&amp;B/Soul</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=lbJLnWNOz7c&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/lbJLnWNOz7c/2.jpg"
+      height="90" width="120" time="00:00:58.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/lbJLnWNOz7c/1.jpg"
+      height="90" width="120" time="00:00:29.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/lbJLnWNOz7c/3.jpg"
+      height="90" width="120" time="00:01:27.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/lbJLnWNOz7c/0.jpg"
+      height="240" width="320" time="00:00:58.500" />
+      <media:title type="plain">Ne-Yo - Chevy Cruze Interview
+      Sessions</media:title>
+      <yt:duration seconds="117" />
+    </media:group>
+    <gd:rating average="4.529412" max="5" min="1" numRaters="17"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="8" viewCount="1630" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/5JM8lz5cDSA</id>
+    <published>2010-12-22T19:54:39.000Z</published>
+    <updated>2011-01-15T16:43:22.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy volt mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet volt mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car gas" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car battery" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="gas to electric car conversion" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="fuel efficient car" />
+    <title type="text">How the Chevrolet Volt Works</title>
+    <content type="text">What is the Chevrolet Volt exactly? This
+    video explains how the Volt is different from hybrid, pure
+    electric and gas-powered cars on the road.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=5JM8lz5cDSA&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/5JM8lz5cDSA/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/5JM8lz5cDSA/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=5JM8lz5cDSA" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/5JM8lz5cDSA" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/5JM8lz5cDSA/comments"
+      countHint="14" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/5JM8lz5cDSA?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="127"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CigLENy73wIaHwkgDVw-lzyT5BMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="127" yt:format="1" />
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CigLENy73wIaHwkgDVw-lzyT5BMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="127" yt:format="6" />
+      <media:description type="plain">What is the Chevrolet Volt
+      exactly? This video explains how the Volt is different from
+      hybrid, pure electric and gas-powered cars on the
+      road.</media:description>
+      <media:keywords>chevy volt mpg, Chevrolet volt mpg, electric
+      car mpg, electric car gas, electric car battery, gas to
+      electric car conversion, fuel efficient car</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=5JM8lz5cDSA&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/5JM8lz5cDSA/2.jpg"
+      height="90" width="120" time="00:01:03.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/5JM8lz5cDSA/1.jpg"
+      height="90" width="120" time="00:00:31.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/5JM8lz5cDSA/3.jpg"
+      height="90" width="120" time="00:01:35.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/5JM8lz5cDSA/0.jpg"
+      height="240" width="320" time="00:01:03.500" />
+      <media:title type="plain">How the Chevrolet Volt
+      Works</media:title>
+      <yt:duration seconds="127" />
+    </media:group>
+    <gd:rating average="4.875" max="5" min="1" numRaters="32"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="17" viewCount="4149" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/zYbQDHdgvdY</id>
+    <published>2010-12-21T12:37:47.000Z</published>
+    <updated>2011-01-17T04:20:08.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy volt mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet volt mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car mpg" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car gas" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car battery" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="gas to electric car conversion" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="fuel efficient car" />
+    <title type="text">Understanding the Chevrolet Volt"s Fuel
+    Economy</title>
+    <content type="text">Understanding the new fuel economy ratings
+    for plug-in electric vehicles can be a daunting task, but
+    thankfully, this video about the Chevrolet Volt"s two MPG
+    ratings is here to help you make sense of them.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=zYbQDHdgvdY&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/zYbQDHdgvdY/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/zYbQDHdgvdY/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=zYbQDHdgvdY" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/zYbQDHdgvdY" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/zYbQDHdgvdY/comments"
+      countHint="63" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/zYbQDHdgvdY?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="140"
+      yt:format="5" />
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwnWvWB3DNCGzRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="140" yt:format="1" />
+      <media:content url="rtsp://v2.cache3.c.youtube.com/CigLENy73wIaHwnWvWB3DNCGzRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="140" yt:format="6" />
+      <media:description type="plain">Understanding the new fuel
+      economy ratings for plug-in electric vehicles can be a
+      daunting task, but thankfully, this video about the Chevrolet
+      Volt"s two MPG ratings is here to help you make sense of
+      them.</media:description>
+      <media:keywords>chevy volt mpg, Chevrolet volt mpg, electric
+      car mpg, electric car gas, electric car battery, gas to
+      electric car conversion, fuel efficient car</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=zYbQDHdgvdY&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zYbQDHdgvdY/2.jpg"
+      height="90" width="120" time="00:01:10" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zYbQDHdgvdY/1.jpg"
+      height="90" width="120" time="00:00:35" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zYbQDHdgvdY/3.jpg"
+      height="90" width="120" time="00:01:45" />
+      <media:thumbnail url="http://i.ytimg.com/vi/zYbQDHdgvdY/0.jpg"
+      height="240" width="320" time="00:01:10" />
+      <media:title type="plain">Understanding the Chevrolet Volt"s
+      Fuel Economy</media:title>
+      <yt:duration seconds="140" />
+    </media:group>
+    <gd:rating average="4.4736843" max="5" min="1" numRaters="38"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="40" viewCount="25444" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/XEUa0_17lsI</id>
+    <published>2010-12-20T16:26:45.000Z</published>
+    <updated>2011-01-17T04:09:25.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Jay Leno" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="California" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric vehicle" />
+    <title type="text">Jay Leno picks up his Chevrolet Volt</title>
+    <content type="text">The first Chevrolet Volt customers in
+    California are picking up their Volts. Watch as Jay Leno takes
+    delivery of his car and compares the Volt to other electric
+    vehicles.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=XEUa0_17lsI&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/XEUa0_17lsI/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/XEUa0_17lsI/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=XEUa0_17lsI" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/XEUa0_17lsI" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/XEUa0_17lsI/comments"
+      countHint="70" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/XEUa0_17lsI?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="97"
+      yt:format="5" />
+      <media:content url="rtsp://v1.cache8.c.youtube.com/CigLENy73wIaHwnClnv90xpFXBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="97" yt:format="1" />
+      <media:content url="rtsp://v4.cache8.c.youtube.com/CigLENy73wIaHwnClnv90xpFXBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="97" yt:format="6" />
+      <media:description type="plain">The first Chevrolet Volt
+      customers in California are picking up their Volts. Watch as
+      Jay Leno takes delivery of his car and compares the Volt to
+      other electric vehicles.</media:description>
+      <media:keywords>Chevy Volt, Chevrolet Volt, Jay Leno,
+      California, electric car, electric vehicle</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=XEUa0_17lsI&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/XEUa0_17lsI/2.jpg"
+      height="90" width="120" time="00:00:48.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/XEUa0_17lsI/1.jpg"
+      height="90" width="120" time="00:00:24.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/XEUa0_17lsI/3.jpg"
+      height="90" width="120" time="00:01:12.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/XEUa0_17lsI/0.jpg"
+      height="240" width="320" time="00:00:48.500" />
+      <media:title type="plain">Jay Leno picks up his Chevrolet
+      Volt</media:title>
+      <yt:duration seconds="97" />
+    </media:group>
+    <gd:rating average="4.5061727" max="5" min="1" numRaters="81"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="25" viewCount="26287" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/P17KTdiRQzA</id>
+    <published>2010-12-18T22:58:49.000Z</published>
+    <updated>2011-01-17T04:22:41.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet Volt" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric car" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="electric vehicle" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="extended range" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="California" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="first delivery" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Rydell" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Michigan" />
+    <title type="text">First Chevrolet Volts Arrive in
+    California</title>
+    <content type="text">The first Chevrolet Volts to be sold in
+    California arrive at Rydell Chevrolet. Learn about the
+    vehicles" journey from Michigan to California and see some of
+    the Volt"s history in California.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=P17KTdiRQzA&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/P17KTdiRQzA/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/P17KTdiRQzA/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=P17KTdiRQzA" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/P17KTdiRQzA" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/P17KTdiRQzA/comments"
+      countHint="21" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/P17KTdiRQzA?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="67"
+      yt:format="5" />
+      <media:content url="rtsp://v3.cache2.c.youtube.com/CigLENy73wIaHwkwQ5HYTcpePxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="67" yt:format="1" />
+      <media:content url="rtsp://v6.cache5.c.youtube.com/CigLENy73wIaHwkwQ5HYTcpePxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="67" yt:format="6" />
+      <media:description type="plain">The first Chevrolet Volts to
+      be sold in California arrive at Rydell Chevrolet. Learn about
+      the vehicles" journey from Michigan to California and see
+      some of the Volt"s history in California.</media:description>
+      <media:keywords>Chevy Volt, Chevrolet Volt, electric car,
+      electric vehicle, extended range, California, first delivery,
+      Rydell, Michigan</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=P17KTdiRQzA&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/P17KTdiRQzA/2.jpg"
+      height="90" width="120" time="00:00:33.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/P17KTdiRQzA/1.jpg"
+      height="90" width="120" time="00:00:16.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/P17KTdiRQzA/3.jpg"
+      height="90" width="120" time="00:00:50.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/P17KTdiRQzA/0.jpg"
+      height="240" width="320" time="00:00:33.500" />
+      <media:title type="plain">First Chevrolet Volts Arrive in
+      California</media:title>
+      <yt:duration seconds="67" />
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="24"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="8" viewCount="2639" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/cgFoPZ5cQWc</id>
+    <published>2010-12-17T23:13:36.000Z</published>
+    <updated>2011-01-16T09:09:56.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University Challenge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <title type="text">California State University of Fullerton |
+    Chevrolet University Challenge</title>
+    <content type="text">Want to see more from California State
+    University of Fullerton -- as well as the students the other 22
+    Universities from around the country taking part in the
+    Chevrolet University Challenge? Check out the University tab on
+    the Chevrolet Facebook page:
+    http://on.fb.me/UniversityChallenge</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=cgFoPZ5cQWc&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/cgFoPZ5cQWc/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/cgFoPZ5cQWc/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=cgFoPZ5cQWc" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/cgFoPZ5cQWc" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/cgFoPZ5cQWc/comments"
+      countHint="2" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/cgFoPZ5cQWc?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="409"
+      yt:format="5" />
+      <media:content url="rtsp://v7.cache3.c.youtube.com/CigLENy73wIaHwlnQVyePWgBchMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="409" yt:format="1" />
+      <media:content url="rtsp://v8.cache7.c.youtube.com/CigLENy73wIaHwlnQVyePWgBchMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="409" yt:format="6" />
+      <media:description type="plain">Want to see more from
+      California State University of Fullerton -- as well as the
+      students the other 22 Universities from around the country
+      taking part in the Chevrolet University Challenge? Check out
+      the University tab on the Chevrolet Facebook page:
+      http://on.fb.me/UniversityChallenge</media:description>
+      <media:keywords>University Challenge,
+      Chevrolet</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=cgFoPZ5cQWc&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/cgFoPZ5cQWc/2.jpg"
+      height="90" width="120" time="00:03:24.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/cgFoPZ5cQWc/1.jpg"
+      height="90" width="120" time="00:01:42.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/cgFoPZ5cQWc/3.jpg"
+      height="90" width="120" time="00:05:06.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/cgFoPZ5cQWc/0.jpg"
+      height="240" width="320" time="00:03:24.500" />
+      <media:title type="plain">California State University of
+      Fullerton | Chevrolet University Challenge</media:title>
+      <yt:duration seconds="409" />
+    </media:group>
+    <gd:rating average="4.428571" max="5" min="1" numRaters="7"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="3" viewCount="537" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/sOm1H_u431k</id>
+    <published>2010-12-17T18:57:29.000Z</published>
+    <updated>2010-12-17T21:31:19.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University or Missouri" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University Challenge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <title type="text">University of Missouri | Chevrolet
+    University Challenge</title>
+    <content type="text">Want to see more from University or
+    Missouri -- as well as the students the other 22 Universities
+    from around the country taking part in the Chevrolet University
+    Challenge? Check out the University tab on the Chevrolet
+    Facebook page: http://on.fb.me/UniversityChallenge</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=sOm1H_u431k&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/sOm1H_u431k/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/sOm1H_u431k/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=sOm1H_u431k" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/sOm1H_u431k" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/sOm1H_u431k/comments"
+      countHint="1" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/sOm1H_u431k?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="50"
+      yt:format="5" />
+      <media:content url="rtsp://v8.cache8.c.youtube.com/CigLENy73wIaHwlZ37j7H7XpsBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="50" yt:format="1" />
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CigLENy73wIaHwlZ37j7H7XpsBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="50" yt:format="6" />
+      <media:description type="plain">Want to see more from
+      University or Missouri -- as well as the students the other
+      22 Universities from around the country taking part in the
+      Chevrolet University Challenge? Check out the University tab
+      on the Chevrolet Facebook page:
+      http://on.fb.me/UniversityChallenge</media:description>
+      <media:keywords>University or Missouri, University Challenge,
+      Chevrolet</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=sOm1H_u431k&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/sOm1H_u431k/2.jpg"
+      height="90" width="120" time="00:00:25" />
+      <media:thumbnail url="http://i.ytimg.com/vi/sOm1H_u431k/1.jpg"
+      height="90" width="120" time="00:00:12.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/sOm1H_u431k/3.jpg"
+      height="90" width="120" time="00:00:37.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/sOm1H_u431k/0.jpg"
+      height="240" width="320" time="00:00:25" />
+      <media:title type="plain">University of Missouri | Chevrolet
+      University Challenge</media:title>
+      <yt:duration seconds="50" />
+    </media:group>
+    <yt:statistics favoriteCount="1" viewCount="199" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/qJUixNXQNlc</id>
+    <published>2010-12-17T18:21:19.000Z</published>
+    <updated>2010-12-19T18:38:57.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Ball State University" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University Challenge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <title type="text">Ball State University | Chevrolet University
+    Challenge</title>
+    <content type="text">Want to see more from Ball State
+    University -- as well as the students the other 22 Universities
+    from around the country taking part in the Chevrolet University
+    Challenge? Check out the University tab on the Chevrolet
+    Facebook page: http://on.fb.me/UniversityChallenge</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=qJUixNXQNlc&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/qJUixNXQNlc/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/qJUixNXQNlc/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=qJUixNXQNlc" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/qJUixNXQNlc" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/qJUixNXQNlc/comments"
+      countHint="0" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/qJUixNXQNlc?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="493"
+      yt:format="5" />
+      <media:content url="rtsp://v2.cache6.c.youtube.com/CigLENy73wIaHwlXNtDVxCKVqBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="493" yt:format="1" />
+      <media:content url="rtsp://v3.cache3.c.youtube.com/CigLENy73wIaHwlXNtDVxCKVqBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="493" yt:format="6" />
+      <media:description type="plain">Want to see more from Ball
+      State University -- as well as the students the other 22
+      Universities from around the country taking part in the
+      Chevrolet University Challenge? Check out the University tab
+      on the Chevrolet Facebook page:
+      http://on.fb.me/UniversityChallenge</media:description>
+      <media:keywords>Ball State University, University Challenge,
+      Chevrolet</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=qJUixNXQNlc&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/qJUixNXQNlc/2.jpg"
+      height="90" width="120" time="00:04:06.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/qJUixNXQNlc/1.jpg"
+      height="90" width="120" time="00:02:03.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/qJUixNXQNlc/3.jpg"
+      height="90" width="120" time="00:06:09.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/qJUixNXQNlc/0.jpg"
+      height="240" width="320" time="00:04:06.500" />
+      <media:title type="plain">Ball State University | Chevrolet
+      University Challenge</media:title>
+      <yt:duration seconds="493" />
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="1"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="2" viewCount="128" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/Gz1U0deCe5A</id>
+    <published>2010-12-17T18:16:21.000Z</published>
+    <updated>2010-12-18T06:16:33.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University Challenge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <title type="text">Middle Tennessee State University Campaign
+    Video | Chevrolet University Challenge</title>
+    <content type="text">Want to see more from Middle Tennessee
+    State University -- as well as the students the other 22
+    Universities from around the country taking part in the
+    Chevrolet University Challenge? Check out the University tab on
+    the Chevrolet Facebook page:
+    http://on.fb.me/UniversityChallenge</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=Gz1U0deCe5A&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/Gz1U0deCe5A/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/Gz1U0deCe5A/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=Gz1U0deCe5A" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/Gz1U0deCe5A" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/Gz1U0deCe5A/comments"
+      countHint="2" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/Gz1U0deCe5A?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="203"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache1.c.youtube.com/CigLENy73wIaHwmQe4LX0VQ9GxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="203" yt:format="1" />
+      <media:content url="rtsp://v4.cache2.c.youtube.com/CigLENy73wIaHwmQe4LX0VQ9GxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="203" yt:format="6" />
+      <media:description type="plain">Want to see more from Middle
+      Tennessee State University -- as well as the students the
+      other 22 Universities from around the country taking part in
+      the Chevrolet University Challenge? Check out the University
+      tab on the Chevrolet Facebook page:
+      http://on.fb.me/UniversityChallenge</media:description>
+      <media:keywords>University Challenge,
+      Chevrolet</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=Gz1U0deCe5A&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Gz1U0deCe5A/2.jpg"
+      height="90" width="120" time="00:01:41.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Gz1U0deCe5A/1.jpg"
+      height="90" width="120" time="00:00:50.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Gz1U0deCe5A/3.jpg"
+      height="90" width="120" time="00:02:32.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/Gz1U0deCe5A/0.jpg"
+      height="240" width="320" time="00:01:41.500" />
+      <media:title type="plain">Middle Tennessee State University
+      Campaign Video | Chevrolet University Challenge</media:title>
+      <yt:duration seconds="203" />
+    </media:group>
+    <gd:rating average="5.0" max="5" min="1" numRaters="1"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="1" viewCount="126" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/WnfuoYwG5PM</id>
+    <published>2010-12-17T17:56:10.000Z</published>
+    <updated>2010-12-17T19:20:13.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Illinois State University" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="University Challenge" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <title type="text">Illinois State University Campaign Video |
+    Chevrolet University Challenge</title>
+    <content type="text">Want to see more of Illinois State
+    University -- as well as the students the other 22 Universities
+    from around the country taking part in the Chevrolet University
+    Challenge? Check out the University tab on the Chevrolet
+    Facebook page: http://on.fb.me/UniversityChallenge</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=WnfuoYwG5PM&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/WnfuoYwG5PM/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/WnfuoYwG5PM/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=WnfuoYwG5PM" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/WnfuoYwG5PM" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/WnfuoYwG5PM/comments"
+      countHint="0" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/WnfuoYwG5PM?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="59"
+      yt:format="5" />
+      <media:content url="rtsp://v6.cache4.c.youtube.com/CigLENy73wIaHwnz5AaMoe53WhMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="59" yt:format="1" />
+      <media:content url="rtsp://v1.cache3.c.youtube.com/CigLENy73wIaHwnz5AaMoe53WhMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="59" yt:format="6" />
+      <media:description type="plain">Want to see more of Illinois
+      State University -- as well as the students the other 22
+      Universities from around the country taking part in the
+      Chevrolet University Challenge? Check out the University tab
+      on the Chevrolet Facebook page:
+      http://on.fb.me/UniversityChallenge</media:description>
+      <media:keywords>Illinois State University, University
+      Challenge, Chevrolet</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=WnfuoYwG5PM&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WnfuoYwG5PM/2.jpg"
+      height="90" width="120" time="00:00:29.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WnfuoYwG5PM/1.jpg"
+      height="90" width="120" time="00:00:14.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WnfuoYwG5PM/3.jpg"
+      height="90" width="120" time="00:00:44.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/WnfuoYwG5PM/0.jpg"
+      height="240" width="320" time="00:00:29.500" />
+      <media:title type="plain">Illinois State University Campaign
+      Video | Chevrolet University Challenge</media:title>
+      <yt:duration seconds="59" />
+    </media:group>
+    <yt:statistics favoriteCount="0" viewCount="94" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/oLpGKN5yJXY</id>
+    <published>2011-01-14T15:14:02.000Z</published>
+    <updated>2011-01-17T10:06:19.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy mlk" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="martin luther king memorial" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="mlk memorial Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="mlk reading project" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy mlk time video" />
+    <title type="text">MLK Reading Project | Time |
+    Chevrolet</title>
+    <content type="text">On August 28, 2011, The Dr. Martin Luther
+    King Jr., National Memorial will open in Washington DC.
+    Chevrolet would like to encourage everyone to visit the
+    Memorial and feel inspired to turn their own dreams into
+    action. For more information visit
+    http://www.chevymlk.com</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=oLpGKN5yJXY&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/oLpGKN5yJXY/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/oLpGKN5yJXY/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=oLpGKN5yJXY" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/oLpGKN5yJXY" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/oLpGKN5yJXY/comments"
+      countHint="1" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/oLpGKN5yJXY?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="31"
+      yt:format="5" />
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CigLENy73wIaHwl2JXLeKEa6oBMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="31" yt:format="1" />
+      <media:content url="rtsp://v4.cache5.c.youtube.com/CigLENy73wIaHwl2JXLeKEa6oBMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="31" yt:format="6" />
+      <media:description type="plain">On August 28, 2011, The Dr.
+      Martin Luther King Jr., National Memorial will open in
+      Washington DC. Chevrolet would like to encourage everyone to
+      visit the Memorial and feel inspired to turn their own dreams
+      into action. For more information visit
+      http://www.chevymlk.com</media:description>
+      <media:keywords>chevy mlk, martin luther king memorial, mlk
+      memorial Chevrolet, mlk reading project, chevy mlk time
+      video</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=oLpGKN5yJXY&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oLpGKN5yJXY/2.jpg" height="90" width="120" time="00:00:15.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oLpGKN5yJXY/1.jpg" height="90" width="120" time="00:00:07.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oLpGKN5yJXY/3.jpg" height="90" width="120" time="00:00:23.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oLpGKN5yJXY/0.jpg" height="240" width="320" time="00:00:15.500" />
+      <media:title type="plain">MLK Reading Project | Time |
+      Chevrolet</media:title>
+      <yt:duration seconds="31" />
+    </media:group>
+    <gd:rating average="3.6666667" max="5" min="1" numRaters="3"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="0" viewCount="102" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/p8meSnM4eXs</id>
+    <published>2011-01-14T15:13:54.000Z</published>
+    <updated>2011-01-17T10:06:55.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy mlk" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="martin luther king memorial" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="mlk memorial Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="mlk reading project" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="chevy mlk faith video" />
+    <title type="text">MLK Reading Project | Faith |
+    Chevrolet</title>
+    <content type="text">On August 28, 2011, The Dr. Martin Luther
+    King Jr., National Memorial will open in Washington DC.
+    Chevrolet would like to encourage everyone to visit the
+    Memorial and feel inspired to turn their own dreams into
+    action. For more information visit
+    http://www.chevymlk.com</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=p8meSnM4eXs&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/p8meSnM4eXs/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/p8meSnM4eXs/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=p8meSnM4eXs" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/p8meSnM4eXs" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/p8meSnM4eXs/comments"
+      countHint="0" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/p8meSnM4eXs?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="31"
+      yt:format="5" />
+      <media:content url="rtsp://v7.cache4.c.youtube.com/CigLENy73wIaHwl7eThzSp7JpxMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="31" yt:format="1" />
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CigLENy73wIaHwl7eThzSp7JpxMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="31" yt:format="6" />
+      <media:description type="plain">On August 28, 2011, The Dr.
+      Martin Luther King Jr., National Memorial will open in
+      Washington DC. Chevrolet would like to encourage everyone to
+      visit the Memorial and feel inspired to turn their own dreams
+      into action. For more information visit
+      http://www.chevymlk.com</media:description>
+      <media:keywords>chevy mlk, martin luther king memorial, mlk
+      memorial Chevrolet, mlk reading project, chevy mlk faith
+      video</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=p8meSnM4eXs&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/p8meSnM4eXs/2.jpg"
+      height="90" width="120" time="00:00:15.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/p8meSnM4eXs/1.jpg"
+      height="90" width="120" time="00:00:07.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/p8meSnM4eXs/3.jpg"
+      height="90" width="120" time="00:00:23.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/p8meSnM4eXs/0.jpg"
+      height="240" width="320" time="00:00:15.500" />
+      <media:title type="plain">MLK Reading Project | Faith |
+      Chevrolet</media:title>
+      <yt:duration seconds="31" />
+    </media:group>
+    <gd:rating average="3.6666667" max="5" min="1" numRaters="3"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="0" viewCount="81" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/oq3C8OlZMpY</id>
+    <published>2011-01-07T23:14:14.000Z</published>
+    <updated>2011-01-17T15:58:24.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevrolet" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Chevy" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/keywords.cat"
+    term="Sonic" />
+    <title type="text">Introducing the Chevrolet Sonic</title>
+    <content type="text">Introducing Chevrolet"s all-new, U.S.
+    built small car, the Sonic.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=oq3C8OlZMpY&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/oq3C8OlZMpY/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/oq3C8OlZMpY/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=oq3C8OlZMpY" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/oq3C8OlZMpY" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/oq3C8OlZMpY/comments"
+      countHint="60" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/oq3C8OlZMpY?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="82"
+      yt:format="5" />
+      <media:content url="rtsp://v2.cache8.c.youtube.com/CigLENy73wIaHwmWMlnp8MKtohMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="82" yt:format="1" />
+      <media:content url="rtsp://v2.cache5.c.youtube.com/CigLENy73wIaHwmWMlnp8MKtohMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="82" yt:format="6" />
+      <media:description type="plain">Introducing Chevrolet's
+      all-new, U.S. built small car, the Sonic.</media:description>
+      <media:keywords>Chevrolet, Chevy, Sonic</media:keywords>
+      <media:player url="http://www.youtube.com/watch?v=oq3C8OlZMpY&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oq3C8OlZMpY/2.jpg"
+      height="90" width="120" time="00:00:41" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oq3C8OlZMpY/1.jpg"
+      height="90" width="120" time="00:00:20.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oq3C8OlZMpY/3.jpg"
+      height="90" width="120" time="00:01:01.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/oq3C8OlZMpY/0.jpg"
+      height="240" width="320" time="00:00:41" />
+      <media:title type="plain">Introducing the Chevrolet
+      Sonic</media:title>
+      <yt:duration seconds="82" />
+    </media:group>
+    <gd:rating average="4.8490567" max="5" min="1" numRaters="53"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="30" viewCount="15598" />
+  </entry>
+  <entry>
+    <id>http://gdata.youtube.com/feeds/api/videos/iWfG0KSaYgc</id>
+    <published>2011-01-04T15:13:06.000Z</published>
+    <updated>2011-01-06T05:50:16.000Z</updated>
+    <category scheme="http://schemas.google.com/g/2005#kind"
+    term="http://gdata.youtube.com/schemas/2007#video" />
+    <category scheme="http://gdata.youtube.com/schemas/2007/categories.cat"
+    term="Autos" label="Autos &amp; Vehicles" />
+    <title type="text">13: Is Electricity Clean? | Ask
+    Alexandra</title>
+    <content type="text">In this episode, Alexandra Paul asks
+    Britta Gross, Director of Global Energy Systems and
+    Infrastructure Commercialization about how clean it is to drive
+    on electricity rather than gas.</content>
+    <link rel="alternate" type="text/html"
+    href="http://www.youtube.com/watch?v=iWfG0KSaYgc&amp;feature=youtube_gdata" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.responses"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/iWfG0KSaYgc/responses" />
+    <link rel="http://gdata.youtube.com/schemas/2007#video.related"
+    type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/videos/iWfG0KSaYgc/related" />
+    <link rel="http://gdata.youtube.com/schemas/2007#mobile"
+    type="text/html"
+    href="http://m.youtube.com/details?v=iWfG0KSaYgc" />
+    <link rel="self" type="application/atom+xml"
+    href="http://gdata.youtube.com/feeds/api/users/chevrolet/uploads/iWfG0KSaYgc" />
+    <author>
+      <name>chevrolet</name>
+      <uri>http://gdata.youtube.com/feeds/api/users/chevrolet</uri>
+    </author>
+    <gd:comments>
+      <gd:feedLink href="http://gdata.youtube.com/feeds/api/videos/iWfG0KSaYgc/comments"
+      countHint="8" />
+    </gd:comments>
+    <media:group>
+      <media:category label="Autos &amp; Vehicles"
+      scheme="http://gdata.youtube.com/schemas/2007/categories.cat">
+      Autos</media:category>
+      <media:content url="http://www.youtube.com/v/iWfG0KSaYgc?f=user_uploads&amp;app=youtube_gdata"
+      type="application/x-shockwave-flash" medium="video"
+      isDefault="true" expression="full" duration="43"
+      yt:format="5" />
+      <media:content url="rtsp://v5.cache1.c.youtube.com/CigLENy73wIaHwkHYpqk0MZniRMYDSANFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="43" yt:format="1" />
+      <media:content url="rtsp://v7.cache7.c.youtube.com/CigLENy73wIaHwkHYpqk0MZniRMYESARFEgGUgx1c2VyX3VwbG9hZHMM/0/0/0/video.3gp"
+      type="video/3gpp" medium="video" expression="full"
+      duration="43" yt:format="6" />
+      <media:description type="plain">In this episode, Alexandra
+      Paul asks Britta Gross, Director of Global Energy Systems and
+      Infrastructure Commercialization about how clean it is to
+      drive on electricity rather than gas.</media:description>
+      <media:keywords />
+      <media:player url="http://www.youtube.com/watch?v=iWfG0KSaYgc&amp;feature=youtube_gdata_player" />
+      <media:thumbnail url="http://i.ytimg.com/vi/iWfG0KSaYgc/2.jpg"
+      height="90" width="120" time="00:00:21.500" />
+      <media:thumbnail url="http://i.ytimg.com/vi/iWfG0KSaYgc/1.jpg"
+      height="90" width="120" time="00:00:10.750" />
+      <media:thumbnail url="http://i.ytimg.com/vi/iWfG0KSaYgc/3.jpg"
+      height="90" width="120" time="00:00:32.250" />
+      <media:thumbnail url="http://i.ytimg.com/vi/iWfG0KSaYgc/0.jpg"
+      height="240" width="320" time="00:00:21.500" />
+      <media:title type="plain">13: Is Electricity Clean? | Ask
+      Alexandra</media:title>
+      <yt:duration seconds="43" />
+    </media:group>
+    <gd:rating average="3.0" max="5" min="1" numRaters="6"
+    rel="http://schemas.google.com/g/2005#overall" />
+    <yt:statistics favoriteCount="1" viewCount="442" />
+  </entry>
+</feed>

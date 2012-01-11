@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="Description goes here." />
+    <meta name="keywords" content="" />
+    <meta name="robots" content="index, follow" />
+
+	<title>Tubefeed Demonstration Page</title>
+
+    <link href="css/reset.css" rel="stylesheet" type="text/css" />
+    <link href="css/global.css" rel="stylesheet" type="text/css" />
+
+    <!--[if lt IE 7]>
+      <link href="css/ie6.css" rel="stylesheet" type="text/css" />
+      <script type="text/javascript" src="js/belatedPngFix.js"></script> 
+      <script type="text/javascript">
+        DD_belatedPNG.fix('div, img');
+      </script> 
+    <![endif]-->
+	
+	
+</head>
+
+<body id="body">
+
+    <div id="wrap">
+    
+        <div id="main" class="clearfix">
+			<div id="leftColumn">
+				<h1>Tubefeed <span class="smaller">BETA</span></h1>
+				<p>A jQuery Plugin by Benjamin Wasilewski</p>
+				<p>Tubefeed is a plugin created for jQuery that allows you to display a feed of Youtube videos based on preferences that you set.</p>
+				
+				<h2>Usage:</h2>
+				<p>$(&quot;#main&quot;).tubefeed({<br />
+						&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;userName : &quot;vevo&quot;<br />
+					});
+				</p>
+				
+				<a href="http://www.benjaminwasilewski.com/tubefeed/files/jquery.tubefeed.js">Download Here</a>
+			</div>
+			<div id="rightColumn">
+				<!-- <div id="ytPlayer"></div>
+				<div id="ytPagination"></div>
+				<div id="ytThumbs"></div> -->
+			</div>
+			
+        </div> <!-- closes #main -->
+        
+    </div> <!-- closes #wrap -->
+
+<script src="//ajax.googleapis.com/ajax/libs/jquery/1.5/jquery.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/libs/jquery-1.5.min.js"%3E%3C/script%3E'))</script>
+<script src="http://ajax.googleapis.com/ajax/libs/swfobject/2.2/swfobject.js"></script>
+	<script>!window.jQuery && document.write(unescape('%3Cscript src="js/swfobject-2.2.min.js"%3E%3C/script%3E'))</script>
+<script src="js/plugins/jquery.tubefeed.js"></script>
+
+<script>
+	$(function() {
+		$("#rightColumn").tubefeed({
+			itemsPerRow : 4,
+			paginate : true,
+			userName : "vevo",
+			paginate : true
+			/*playerID : "ytPlayer",
+			paginationID : "ytPagination",
+			thumbsID : "ytThumbs"*/
+		});
+	});
+</script>
+
+</body>
+</html>
